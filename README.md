@@ -1,8 +1,6 @@
 # Mockup Landing Page
 * Only HTML &amp; CSS 
 * Idea from [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page)
-* [Demo]()
-
 
 Credits: 
 * [Favicon](https://www.flaticon.com/free-icons/paper-plane)
